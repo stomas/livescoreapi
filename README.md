@@ -1,5 +1,5 @@
 # LiveScoreAPI
-##How to use
+## How to use
 
 Install using composer
 ``` 
