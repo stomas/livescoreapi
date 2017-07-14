@@ -3,7 +3,7 @@
 
 Install using composer
 ``` 
-composer require "Stomas/Livescoreapi"
+composer require "stomas/livescoreapi"
 ```
 
 Add LivescoreAPIServiceProvider to config/app.php
