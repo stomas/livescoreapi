@@ -1,5 +1,5 @@
 {
-    "name": "Stomas/Livescoreapi",
+    "name": "stomas/livescoreapi",
     "description": "Simple livescore-api.com wrapper",
     "type": "library",
     "require": {},
