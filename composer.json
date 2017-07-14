@@ -1,0 +1,17 @@
+{
+    "name": "Stomas/Livescoreapi",
+    "description": "Simple livescore-api.com wrapper",
+    "type": "library",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Stasiulionis",
+            "email": "tomas.stasiulionis@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
