@@ -1,6 +1,6 @@
 {
     "name": "stomas/livescoreapi",
-    "description": "Simple livescore-api.com wrapper",
+    "description": "Simple www.livescore-api.com wrapper",
     "type": "library",
     "require": {},
     "require-dev": {
