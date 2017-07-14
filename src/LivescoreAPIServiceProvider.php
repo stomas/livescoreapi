@@ -16,7 +16,7 @@ class LivescoreAPIServiceProvider extends ServiceProvider
     {
         //Publishes config file.
         $this->publishes([
-            __DIR__.'/src/config/livescore.php' => config_path('livescore.php'),
+            __DIR__.'/config/livescore.php' => config_path('livescore.php'),
         ]);
     }
 
