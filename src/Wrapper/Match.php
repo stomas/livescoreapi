@@ -1,11 +1,5 @@
 <?php namespace Stomas\Livescoreapi\Wrapper;
 
-
-/**
- * Class Match
- *
- * @package Stomas\Livescoreapi\Wrapper
- */
 /**
  * Class Match
  * @package Stomas\Livescoreapi\Wrapper
