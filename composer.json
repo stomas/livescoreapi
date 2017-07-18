@@ -2,7 +2,9 @@
     "name": "stomas/livescoreapi",
     "description": "Simple www.livescore-api.com wrapper",
     "type": "library",
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle":"~6.*"
+    },
     "require-dev": {
         "phpunit/phpunit": "^6.2"
     },
