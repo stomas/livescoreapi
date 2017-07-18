@@ -6,6 +6,10 @@
  *
  * @package Stomas\Livescoreapi\Wrapper
  */
+/**
+ * Class Match
+ * @package Stomas\Livescoreapi\Wrapper
+ */
 class Match {
 
     /**
@@ -190,6 +194,13 @@ class Match {
      */
     public function getAwayPoints(){
         return Score::AwayPoints($this->getScore());
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray(){
+        return get_object_vars($this);
     }
 
 }
